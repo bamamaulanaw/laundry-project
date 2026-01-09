@@ -1,2 +1,2 @@
-# laundry-project
+# Laundry Project
 PHP native CRUD project.
